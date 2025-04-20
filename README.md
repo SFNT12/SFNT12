@@ -15,7 +15,7 @@ Dei um tempo na carreira profissional quando tive meus filhos (*uma pausa de qua
 - Selenium
 - Python
   
-*Espero conseguir utilizar o GitHub para alcançar meus objetivos e conseguir compartilhar conhecimento.* ^_^
+😸*Espero conseguir utilizar o GitHub para alcançar meus objetivos e conseguir compartilhar conhecimento.* ^_^
 
 <!--
 **SFNT12/SFNT12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
