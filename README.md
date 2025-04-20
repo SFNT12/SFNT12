@@ -2,7 +2,7 @@
 
 Meu nome é ***Simone*** e já atuo na área de TI desde **2002**. Acho importante continuar sempre estudando e aprendendo coisas novas.
 
-Comecei como **Analista e Desenvolvedora Cobol Mainframe**, trabalhando a mmaior parte do tempo como QA, mas também programava em Cobol, CICS, utilizando DB2. Foram mais de *dez* anos na área.
+Comecei como **Analista e Desenvolvedora Cobol Mainframe**, trabalhando a maior parte do tempo como QA, mas também programava em Cobol, CICS, utilizando DB2. Foram mais de *dez* anos na área.
 Dei um tempo na carreira profissional quando tive meus filhos (*uma pausa de quase 3 anos*) e ao retomar passei por vários papéis
 1. Change Manager
 2. Scrum Master
